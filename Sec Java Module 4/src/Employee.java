@@ -27,7 +27,7 @@ class Manager extends Employee {
     }
 }
 
-class EmployeeTest {   // <-- renamed Main to avoid duplicate
+class EmployeeTest {
     public static void main(String[] args) {
         Manager m = new Manager("John Doe", 75000, "IT");
         m.displayManagerInfo();
