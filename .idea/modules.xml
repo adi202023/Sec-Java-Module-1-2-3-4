@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Skill-Enhancement.iml" filepath="$PROJECT_DIR$/.idea/Skill-Enhancement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Skill-Enhancement 1/Skill-Enhancement 1.iml" filepath="$PROJECT_DIR$/Skill-Enhancement 1/Skill-Enhancement 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Skill-Enhancement 2/Skill-Enhancement 2.iml" filepath="$PROJECT_DIR$/Skill-Enhancement 2/Skill-Enhancement 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Skill-Enhancement 4/Skill-Enhancement 4.iml" filepath="$PROJECT_DIR$/Skill-Enhancement 4/Skill-Enhancement 4.iml" />
+    </modules>
+  </component>
+</project>
